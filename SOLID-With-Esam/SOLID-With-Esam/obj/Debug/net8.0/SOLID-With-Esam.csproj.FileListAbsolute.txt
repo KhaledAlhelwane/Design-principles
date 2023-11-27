@@ -1,0 +1,14 @@
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\bin\Debug\net8.0\SOLID-With-Esam.exe
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\bin\Debug\net8.0\SOLID-With-Esam.deps.json
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\bin\Debug\net8.0\SOLID-With-Esam.runtimeconfig.json
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\bin\Debug\net8.0\SOLID-With-Esam.dll
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\bin\Debug\net8.0\SOLID-With-Esam.pdb
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.AssemblyInfoInputs.cache
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.AssemblyInfo.cs
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.csproj.CoreCompileInputs.cache
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.dll
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\refint\SOLID-With-Esam.dll
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.pdb
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\SOLID-With-Esam.genruntimeconfig.cache
+C:\Users\khale\Desktop\Asp core projects\SOLID-With-Esam\SOLID-With-Esam\obj\Debug\net8.0\ref\SOLID-With-Esam.dll
